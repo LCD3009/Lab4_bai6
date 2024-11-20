@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Net.Http;
 using System.Text.Json;
-using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -21,7 +20,7 @@ namespace Lab4_Bai6
 
             if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
             {
-                MessageBox.Show("Please enter both username and password.");
+                MessageBox.Show("Vui lòng nhập thông tin.");
                 return;
             }
 
@@ -33,7 +32,6 @@ namespace Lab4_Bai6
 
                 if (userInfo != null)
                 {
-                    // Truyền token vào MainForm
                     MainForm mainForm = new MainForm(tokenData.AccessToken);
                     mainForm.Show();
                     this.Hide();
@@ -45,10 +43,9 @@ namespace Lab4_Bai6
             }
             else
             {
-                MessageBox.Show("Invalid login credentials!");
+                MessageBox.Show("Thông tin không hợp lệ.");
             }
         }
-
 
         private async Task<TokenResponse> LoginAsync(string username, string password)
         {
@@ -120,26 +117,6 @@ namespace Lab4_Bai6
                     return null;
                 }
             }
-        }
-
-        public class TokenResponse
-        {
-            [JsonPropertyName("access_token")]
-            public string AccessToken { get; set; }
-
-            [JsonPropertyName("token_type")]
-            public string TokenType { get; set; }
-        }
-
-        public class UserInfo
-        {
-            [JsonPropertyName("username")]
-            public string Username { get; set; }
-
-            [JsonPropertyName("email")]
-            public string Email { get; set; }
-
-            // Add more properties if needed
         }
 
         private void LinkSignUp_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

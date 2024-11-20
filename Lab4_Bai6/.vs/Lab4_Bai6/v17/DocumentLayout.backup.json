@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\themmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:themmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\themmonan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:themmonan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\themmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:themmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\themmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:themmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\angigio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:angigio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\angigio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:angigio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|f:\\nt106\\thuchanh\\nt106.p12_lab4_23520291\\lab4_bai6\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFA54AEF-5C45-4F8B-BC2E-97D51A79C8EC}|Lab4_Bai6.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,103 +54,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ThemMonAn.Designer.cs",
-              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\ThemMonAn.Designer.cs",
-              "RelativeDocumentMoniker": "ThemMonAn.Designer.cs",
-              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\ThemMonAn.Designer.cs",
-              "RelativeToolTip": "ThemMonAn.Designer.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAADwv1oAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:20:29.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ThemMonAn.cs",
-              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\ThemMonAn.cs",
-              "RelativeDocumentMoniker": "ThemMonAn.cs",
-              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\ThemMonAn.cs",
-              "RelativeToolTip": "ThemMonAn.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAwEQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:17:08.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ThemMonAn.cs [Design]",
               "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\ThemMonAn.cs",
               "RelativeDocumentMoniker": "ThemMonAn.cs",
               "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\ThemMonAn.cs [Design]",
               "RelativeToolTip": "ThemMonAn.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:17:04.346Z",
+              "WhenOpened": "2024-11-20T01:46:43.107Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Login.cs",
-              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Login.cs",
-              "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Title": "AnGiGio.cs",
+              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\AnGiGio.cs",
+              "RelativeDocumentMoniker": "AnGiGio.cs",
+              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\AnGiGio.cs",
+              "RelativeToolTip": "AnGiGio.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T14:06:12.928Z",
+              "WhenOpened": "2024-11-20T01:34:49.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AnGiGio.cs [Design]",
+              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\AnGiGio.cs",
+              "RelativeDocumentMoniker": "AnGiGio.cs",
+              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\AnGiGio.cs [Design]",
+              "RelativeToolTip": "AnGiGio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:32:44.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:13:11.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwGUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:40:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Login.cs [Design]",
               "RelativeToolTip": "Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T14:06:10.536Z",
+              "WhenOpened": "2024-11-19T23:40:33.446Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Signup.cs",
-              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Signup.cs",
-              "RelativeDocumentMoniker": "Signup.cs",
-              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\Signup.cs",
-              "RelativeToolTip": "Signup.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIwAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:20:19.722Z",
+              "WhenOpened": "2024-11-19T17:00:41.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\MainForm.cs*",
-              "RelativeToolTip": "MainForm.cs*",
-              "ViewState": "AgIAADcBAAAAAAAAAAAAAEABAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:18:27.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\MainForm.cs [Design]*",
-              "RelativeToolTip": "MainForm.cs [Design]*",
+              "ToolTip": "F:\\NT106\\ThucHanh\\NT106.P12_Lab4_23520291\\Lab4_Bai6\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:18:21.503Z",
+              "WhenOpened": "2024-11-19T16:59:30.741Z",
               "EditorCaption": " [Design]"
             }
           ]

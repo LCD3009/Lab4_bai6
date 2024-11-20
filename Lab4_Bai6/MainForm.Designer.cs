@@ -32,9 +32,15 @@
             this.btn_add = new System.Windows.Forms.Button();
             this.lb_tittle = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
             this.flowLayoutPanelFood = new System.Windows.Forms.FlowLayoutPanel();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.flowLayoutPanelMyFood = new System.Windows.Forms.FlowLayoutPanel();
+            this.info = new System.Windows.Forms.Label();
+            this.tabControl1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
             this.SuspendLayout();
             // 
             // btn_random
@@ -78,55 +84,93 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel1.Location = new System.Drawing.Point(89, 407);
+            this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel1.Location = new System.Drawing.Point(144, 411);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(46, 13);
+            this.linkLabel1.Size = new System.Drawing.Size(58, 17);
             this.linkLabel1.TabIndex = 5;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Logout";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
-            // comboBox1
+            // tabControl1
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(448, 407);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(49, 21);
-            this.comboBox1.TabIndex = 6;
-            this.comboBox1.Text = "1";
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Location = new System.Drawing.Point(7, 92);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(551, 309);
+            this.tabControl1.TabIndex = 8;
             // 
-            // comboBox2
+            // tabPage1
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(503, 407);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(49, 21);
-            this.comboBox2.TabIndex = 7;
-            this.comboBox2.Text = "5";
+            this.tabPage1.Controls.Add(this.flowLayoutPanelFood);
+            this.tabPage1.Location = new System.Drawing.Point(4, 22);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(543, 283);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "Tất cả";
+            this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // flowLayoutPanelFood
             // 
-            this.flowLayoutPanelFood.Location = new System.Drawing.Point(18, 105);
+            this.flowLayoutPanelFood.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
+            this.flowLayoutPanelFood.Location = new System.Drawing.Point(6, 6);
             this.flowLayoutPanelFood.Name = "flowLayoutPanelFood";
-            this.flowLayoutPanelFood.Size = new System.Drawing.Size(521, 283);
-            this.flowLayoutPanelFood.TabIndex = 8;
+            this.flowLayoutPanelFood.Size = new System.Drawing.Size(530, 270);
+            this.flowLayoutPanelFood.TabIndex = 0;
+            this.flowLayoutPanelFood.WrapContents = false;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.flowLayoutPanelMyFood);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(543, 283);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Tôi đóng góp";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // flowLayoutPanelMyFood
+            // 
+            this.flowLayoutPanelMyFood.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
+            this.flowLayoutPanelMyFood.Location = new System.Drawing.Point(6, 6);
+            this.flowLayoutPanelMyFood.Name = "flowLayoutPanelMyFood";
+            this.flowLayoutPanelMyFood.Size = new System.Drawing.Size(530, 270);
+            this.flowLayoutPanelMyFood.TabIndex = 1;
+            this.flowLayoutPanelMyFood.WrapContents = false;
+            // 
+            // info
+            // 
+            this.info.AutoSize = true;
+            this.info.Location = new System.Drawing.Point(15, 413);
+            this.info.Name = "info";
+            this.info.Size = new System.Drawing.Size(35, 13);
+            this.info.TabIndex = 9;
+            this.info.Text = "label1";
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(564, 450);
-            this.Controls.Add(this.flowLayoutPanelFood);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.info);
+            this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.lb_tittle);
             this.Controls.Add(this.btn_add);
             this.Controls.Add(this.btn_random);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "MainForm";
             this.Text = "Hôm nay ăn gì?";
             this.Load += new System.EventHandler(this.MainForm_Load);
+            this.tabControl1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.tabPage2.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,9 +181,12 @@
         private System.Windows.Forms.Button btn_add;
         private System.Windows.Forms.Label lb_tittle;
         private System.Windows.Forms.LinkLabel linkLabel1;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.ComboBox comboBox2;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanelFood;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Label info;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanelMyFood;
     }
 }
 
